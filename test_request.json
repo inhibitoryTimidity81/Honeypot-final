@@ -1,0 +1,13 @@
+{
+  "sessionId": "test-session-001",
+  "message": {
+    "text": "Hello sir, your bank account has been blocked. Please share your account number to verify.",
+    "sender": "scammer"
+  },
+  "conversationHistory": [],
+  "metadata": {
+    "channel": "SMS",
+    "language": "English",
+    "locale": "IN"
+  }
+}
